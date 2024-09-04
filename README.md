@@ -16,6 +16,6 @@ Visit the link to see the requirement
 
 # Figma Design Preview
 
-![Figma Design Preview](./public/figma-design-preview.png)
+- [Figma Design Preview](./public/Sample.png)
 
-You can view the complete Figma design file [here](./public/your-figma-file.fig).
+You can view the complete Figma design file [here](./public/Sample.fig).
