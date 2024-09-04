@@ -14,3 +14,8 @@ Visit the link to see the requirement
 - [https://teal-bombolone-f0a19a.netlify.app/](https://teal-bombolone-f0a19a.netlify.app/)
 
 
+# Figma Design Preview
+
+![Figma Design Preview](./public/figma-design-preview.png)
+
+You can view the complete Figma design file [here](./public/your-figma-file.fig).
