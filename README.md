@@ -18,4 +18,5 @@ Visit the link to see the requirement
 
 - You can view the complete Figma design file in the public folder
 
-![Header](./figma.png)
+![Figma image](https://github.com/khadizajarin/Lunacal/blob/main/public/figma.png)
+
