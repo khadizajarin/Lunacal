@@ -39,6 +39,9 @@ const Gallery = () => {
           </div>
         </div>
   
+
+
+  
         {/* Image Gallery */}
         <div className="flex lg:flex-row flex-col lg:justify-around justify-center items-center lg:gap-0 gap-4 lg:space-x-4  mt-8 ">
           <div className="lg:w-[10rem] lg:h-[10rem] rounded-2xl">
